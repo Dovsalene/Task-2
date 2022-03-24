@@ -1,6 +1,8 @@
 # Task-2
 #Hardware
+
 =>Input devices:
+
 *Keyboard
 *Mouse
 *Joy Stick
@@ -11,7 +13,9 @@
 *Microphone
 *Bar Code Reader
 *Optical Mark Reader(OMR)
+
 =>Output devices:
+
 *Monitor
 *Printer
 *Headphones
@@ -22,8 +26,10 @@
 *Video Card
 *Braille Reader
 *Speech-Generating Device
+
 #Software
 =>Application Software:
+
 *Microsoft word
 *Google Chrome
 *Firefox
@@ -34,7 +40,9 @@
 *Facebook
 *Whatsapp
 *Netflix
+
 =>System software:
+
 *Windows
 *Mac OS
 *Chrome OS
